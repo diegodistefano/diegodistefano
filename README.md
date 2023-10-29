@@ -63,7 +63,10 @@ ____
 
 
 ##### Backend Development
-<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
+<p align="left"> 
+
+ <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="65" height="65"/> </a> 
+ <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
 </p>
 
 
