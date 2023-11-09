@@ -30,7 +30,7 @@ ___
 
 ___
 
-#### Durante la carrera pude utilizar tecnologias tales como:
+#### Durante la carrera, y mi aprendizaje autodidacta, pude utilizar tecnologias tales como:
 
 
 
@@ -48,11 +48,10 @@ ___
 #### Actualmente me dedico a:
 
 
-- Reforzar conocimientos sobre el stack tecnológico MEAN y nuevas tecnologías
-- Realizar un proyecto full stack de E-Commerce 👉🏻 [[Klan Otaku](https://github.com/diegodistefano/klanotaku_ecommerce)]
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
+- Reforzar conocimientos sobre el stack tecnológico PERN y nuevas tecnologías
+- Realizar un proyecto full stack de E-Commerce 👉🏻 [[Klan Otaku](https://github.com/diegodistefano/Klan_Otaku_E-Commerce_Final)], siendo el objetivo a corto plazo, migrarlo al stack PERN, ya que fue escrito en HTML, CSS, JavaScript Vainilla, utilizando Express y Node.
+- Afianzar e investigar principios, patrones, buenas prácticas y metodologías de desarrollo.
 - Finalizar la carrera de Tecnicatura Universitaria en Programación.
-
 
 ___
 ___
