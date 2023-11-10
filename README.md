@@ -1,3 +1,5 @@
+
+
 ### I'm Diego Di Stefano 👋
 #### Web Developer trainee full-stack 💻 actually I am looking for my first career♨️
 
@@ -57,6 +59,7 @@ ___
 ___
 ___
 
+<img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 
 
 
