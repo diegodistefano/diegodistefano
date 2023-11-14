@@ -12,7 +12,7 @@
 
 - 📖 I’m currently learning about programming languages, for example: Java, Python, JavaScript, C# and somethings about Web Design.
 
-- 😄 Fun fact: I love to watch anime and read comic books, so my favourite projects are about those stuffs.
+- 😄 Curious fact: I love to watch anime and read comic books, so my favourite projects are about those stuffs.
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 - 📖 Estoy aprendiendo lenguajes de programación, tales como: Java, Python, JavaScript, C# y un poco de Diseño Web.
 
-- 😄 Dato gracioso: Me encanta mirar anime and leer comics, es por eso que mis proyectos favoritos son de esa temática.
+- 😄 Dato curioso: Me encanta mirar anime and leer comics, es por eso que mis proyectos favoritos son de esa temática.
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 
 - Reforzar conocimientos sobre el stack tecnológico PERN y nuevas tecnologías
-- Realizar un proyecto full stack de E-Commerce 👉🏻 [[Klan Otaku](https://github.com/diegodistefano/Klan_Otaku_E-Commerce_Final)], siendo el objetivo a corto plazo, migrarlo al stack PERN, ya que fue escrito en HTML, CSS, JavaScript Vainilla, utilizando Express y Node.
+- Realizar un proyecto full stack de E-Commerce 👉🏻 [[Klan Otaku](https://github.com/diegodistefano/Klan_Otaku_E-Commerce_Final)], siendo el objetivo a corto plazo, migrarlo al stack PERN, ya que fue escrito en HTML, CSS, JavaScript Vanilla, utilizando Express y Node.
 - Afianzar e investigar principios, patrones, buenas prácticas y metodologías de desarrollo.
 - Finalizar la carrera de Tecnicatura Universitaria en Programación.
 
