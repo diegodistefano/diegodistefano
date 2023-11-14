@@ -14,7 +14,9 @@
 
 - 😄 Curious fact: I love to watch anime and read comic books, so my favourite projects are about those stuffs.
 
+  
 ___
+
 
 ### Mi nombre es Diego Di Stefano 👋
 #### Desarrollador web trainee full-stack 💻 actualmente en búsqueda de mi primer empleo♨️
@@ -30,7 +32,9 @@ ___
 
 - 😄 Dato curioso: Me encanta mirar anime and leer comics, es por eso que mis proyectos favoritos son de esa temática.
 
+  
 ___
+
 
 #### Durante la carrera, y mi aprendizaje autodidacta, pude utilizar tecnologias tales como:
 
@@ -47,14 +51,16 @@ ___
 
 ___
 
+
 #### Actualmente me dedico a:
 
 
 - Reforzar conocimientos sobre el stack tecnológico PERN y nuevas tecnologías
-- Realizar un proyecto full stack de E-Commerce 👉🏻 [[Klan Otaku](https://github.com/diegodistefano/Klan_Otaku_E-Commerce_Final)], siendo el objetivo a corto plazo, migrarlo al stack PERN, ya que fue escrito en HTML, CSS, JavaScript Vanilla, utilizando Express y Node.
+- Realizar un proyecto full stack de E-Commerce 👉🏻 [[Klan Otaku](https://github.com/diegodistefano/Klan_Otaku_E-Commerce_Final)], siendo el objetivo a corto   plazo, migrarlo al stack PERN, ya que fue escrito en HTML, CSS, JavaScript Vanilla, utilizando Express y Node.
+- Maquetar un sitio web para la pasantía que estoy realizando en InkuA 👉🏻 [[ReTech Project](https://github.com/diegodistefano/InkuA_ReTech_Project)]
 - Afianzar e investigar principios, patrones, buenas prácticas y metodologías de desarrollo.
 - Finalizar la carrera de Tecnicatura Universitaria en Programación.
-
+___
 ___
 ___
 ___
