@@ -5,11 +5,11 @@
 
 
 - 😃 I would like to tell you a few things about me:
-- 
+  
 - 🔭 I am currently working as a teacher, specializing in Math and Physics.
-- 
+  
 - 🌱 I am a Programming Associate from UTN University (Universidad Tecnológica Nacional), with expertise in programming languages like C#, .NET, and web design.
-- 
+  
 - 😄 A curious fact about me is that I love watching anime and reading comic books. Some of my favorite projects are related to these topics.
 
   
