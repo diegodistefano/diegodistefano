@@ -1,36 +1,32 @@
 
 
 ### I'm Diego Di Stefano 👋
-#### Web Developer trainee full-stack 💻 actually I am looking for my first career♨️
+#### Programmer trainee full-stack 💻. I am looking for my first career♨️
 
 
 - 😃 I would like to tell you a few things about me:
-
-- 🔭 I’m currently working on Education as a math and physics highSchool teacher.
-
-- 🌱 I’m currently studying in the UTN University (Universidad Tecnológica Nacional).
-
-- 📖 I’m currently learning about programming languages, for example: Java, Python, JavaScript, C# and somethings about Web Design.
-
-- 😄 Curious fact: I love to watch anime and read comic books, so my favourite projects are about those stuffs.
+- 
+- 🔭 I am currently working as a teacher, specializing in Math and Physics.
+- 
+- 🌱 I am a Programming Associate from UTN University (Universidad Tecnológica Nacional), with expertise in programming languages like C#, .NET, and web design.
+- 
+- 😄 A curious fact about me is that I love watching anime and reading comic books. Some of my favorite projects are related to these topics.
 
   
 ___
 
 
 ### Mi nombre es Diego Di Stefano 👋
-#### Desarrollador web trainee full-stack 💻 actualmente en búsqueda de mi primer empleo♨️
+#### Programador trainee full-stack 💻 actualmente en búsqueda de mi primer empleo♨️
 
 
 - 😃 Me gustaria contarte un poco sobre mi:
 
 - 🔭 Actualmente trabajo en educacion, como profesor de matemática y física en Escuela Secundaria.
 
-- 🌱 Soy estudiante de la UTN (Universidad Tecnológica Nacional).
+- 🌱 Soy Técnico Universitario en Programación de la UTN (Universidad Tecnológica Nacional), especializandome en lenguajes de programación como C#, .NET y Diseño Web.
 
-- 📖 Estoy aprendiendo lenguajes de programación, tales como: Java, Python, JavaScript, C# y un poco de Diseño Web.
-
-- 😄 Dato curioso: Me encanta mirar anime and leer comics, es por eso que mis proyectos favoritos son de esa temática.
+- 😄 Un dato curioso es que me encanta mirar anime and leer comics, es por eso que mis proyectos favoritos son de esa temática.
 
   
 ___
@@ -55,12 +51,11 @@ ___
 #### Actualmente me dedico a:
 
 
-- Reforzar conocimientos sobre el stack tecnológico PERN y nuevas tecnologías
+- Reforzar conocimientos de C# y .NET.
+-  Desarrollar una aplicacion de escritorio utilizando los conceptos de: Programación Orientada a Objetos en C#, Conexión a base de datos SQL, Manejo de excepciones y validaciones, Windows Forms, Arquitectura en capas, Clases de ADO .Net para gestionar la base de datos. 👉🏻 [[POKEDEX](https://github.com/diegodistefano/Pokedex-en-CSharp-y-DotNet)]
 - Realizar un proyecto full stack de E-Commerce 👉🏻 [[Klan Otaku](https://github.com/diegodistefano/Klan_Otaku_E-Commerce_Final)], siendo el objetivo a corto   plazo, migrarlo al stack PERN, ya que fue escrito en HTML, CSS, JavaScript Vanilla, utilizando Express y Node.
 - Maquetar un sitio web para la pasantía que estoy realizando en InkuA 👉🏻 [[ReTech Project](https://github.com/diegodistefano/InkuA_ReTech_Project)]
 - Afianzar e investigar principios, patrones, buenas prácticas y metodologías de desarrollo.
-- Finalizar la carrera de Tecnicatura Universitaria en Programación.
-___
 ___
 ___
 ___
